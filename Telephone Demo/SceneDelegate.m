@@ -2,7 +2,7 @@
 //  SceneDelegate.m
 //  Telephone Demo
 //
-//  Created by Wolfgang on 25/03/2022.
+//  Created by Soneé John on 25/03/2022.
 //
 
 #import "SceneDelegate.h"
